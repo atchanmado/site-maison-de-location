@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+body{
+    
+    background-position: center;
+    background-size: cover;
+  
+    margin-left: 40%;
+    margin-top: 20%;
+    font-family: sans-serif;
+    border-radius: 100px;
+    background-color: rgba(240, 208, 166, 0.377) ;
+  
+
+    
+}
+body .form button{
+    width: 100px;
+    height: 20px;
+    margin-top: 10px;
+    display: flex;
+}
+body .form button{
+    float: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    justify-content: center;
+    position: fixed;
+}
+
+body .form input{
+    
+    display: flex;
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    border-radius: 100px;
+    
+}
+
+.br{
+    margin-top: 12%;
+}
+    
+
+
+.Text{
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
